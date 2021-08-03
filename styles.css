@@ -1101,7 +1101,7 @@ img{
         padding: 0 .5rem;
     }
     .project__img{
-        display: none;
+        width: 120px;
     }
     .testimonial__data,
     .testimonial__header{
