@@ -1334,6 +1334,11 @@ img{
     .project__data{
         padding-top: .8rem;
     }
+    
+    .project_data img{
+        display: none;
+    }
+    
     .footer__container{
         grid-template-columns: repeat(3, 1fr);
     }
